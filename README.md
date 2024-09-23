@@ -10,7 +10,7 @@
 - Colleges create a account.
 - Student attendance
 - Profectional Resume bulding web links.
-- 
+- 12-cutoff calculation
 
 ## License
 
